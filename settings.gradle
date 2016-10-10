@@ -1,0 +1,3 @@
+include ':samplelib'
+rootProject.name = 'javaapp'
+
